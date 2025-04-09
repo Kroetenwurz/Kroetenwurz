@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Kroetenwurz
 - 👀 I’m interested in ... C#
-- 🌱 I’m currently learning ... UWP
 - 💞️ I’m looking to collaborate on ... currently nothing
 - 📫 How to reach me ... personal contact
 
